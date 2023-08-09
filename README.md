@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋! I'm Fiona Berthou</h1>
+<h1 align="center">Hello 👋! I'm Fiona Berthou</h1>
 <h3 align="center">Welcome to my Github page!!!</h3>
 
 - 🔭 I'm currently working on animations in CSS
