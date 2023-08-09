@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋! I'm Fiona Berthou</h1>
 <h3 align="center">Welcome to my Github page!!!</h3>
 
-- 🔭 I'm currently working on animations in CSS
+- 📈 I’m currently learning React</br>
+- 👩‍💻 I’m currently working on <a href="" target="_blank" rel="noreferrer"> <a/> </br>
+
 
 <p align="left">
 </p>
