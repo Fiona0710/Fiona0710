@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github page!!!</h3>
 
 - 📈 I’m currently learning React</br>
-- 👩‍💻 I’m currently working on <a href="" target="_blank" rel="noreferrer"> <a/> </br>
+- 👩‍💻 I’m currently working on <a href="https://github.com/Fiona0710/NinaCarducci" target="_blank" rel="noreferrer">NinaCarducci(P9) <a/> </br>
 
 
 <p align="left">
