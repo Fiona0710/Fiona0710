@@ -9,6 +9,7 @@
 </p>
 <h3 align="left">Language and tools used:</h3>
 <p align="left"> 
+   <img  alt="Visual Studio Code" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />       
    <img  alt="Git" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img  alt="GitHub" width="40" style="padding-right:10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
