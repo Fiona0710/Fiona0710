@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github page!!!</h3>
 
 - 📈 I’m currently learning React</br>
-- 👩‍💻 I’m currently working on <a href="https://github.com/Fiona0710/NinaCarducci" target="_blank" rel="noreferrer">NinaCarducci(P9) <a/> </br>
+- 👩‍💻 I’m currently working on <a href="https://github.com/Fiona0710/ArgentBank" target="_blank" rel="noreferrer">ArgentBank(P11) <a/> </br>
 
 
 <p align="left">
@@ -17,4 +17,6 @@
    <img  alt="SaSS" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"      />
    <img alt="JavaScript" width="40" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    <img  alt="React" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img  alt="Redux" width="40" style="padding-right:10px;       
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 </p>
