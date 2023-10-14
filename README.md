@@ -7,7 +7,7 @@
 
 <p align="left">
 </p>
-<h3 align="left">Language and tools :</h3>
+<h3 align="left">Language and tools used:</h3>
 <p align="left"> 
    <img  alt="Git" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img  alt="GitHub" width="40" style="padding-right:10px;" 
@@ -19,4 +19,5 @@
    <img  alt="React" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img  alt="Redux" width="40" style="padding-right:10px;"       
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+   <img alt="Mongodb" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />        
 </p>
